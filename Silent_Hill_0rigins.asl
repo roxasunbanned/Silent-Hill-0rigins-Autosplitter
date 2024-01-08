@@ -5,7 +5,7 @@
 *		PPSSPP: 64-bit executable, v1.4-v1.14.1 and v1.15-v1.16.6
 *		Game: US [ULUS10285], JP [ULJM05281], EU [ULES00869]
 *	Contributors:
-*	Parik: Emulator version detection via signature scanning
+*		Parik: Emulator version detection via signature scanning
 *	Notes:
 *		- (optional) Install ASLVarViewer [https://github.com/hawkerm/LiveSplit.ASLVarViewer] & LiveSplit [https://github.com/LiveSplit/LiveSplit]
 *		- It is advised to have PPSSPP and the game running before opening LiveSplit
