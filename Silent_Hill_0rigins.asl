@@ -1,6 +1,6 @@
 /*
 *	SH 0rigins IGT Display v1.02 (19/11/2023)
-*	GitHub: https://github.com/BoredOfSpeedruns/Silent-Hill-0rigins-Autosplitter
+*	GitHub: https://github.com/roxasunbanned/Silent-Hill-0rigins-Autosplitter
 *	Currently supports:
 *		PPSSPP: 64-bit executable, v1.4-v1.14.1 and v1.15-v1.16.6
 *		Game: US [ULUS10285], JP [ULJM05281], EU [ULES00869]
